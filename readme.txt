@@ -88,3 +88,7 @@ Total 3 (delta 0), reused 0 (delta 0)
 To https://github.com/1250446609/20200206TEST.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+
+博客评论
+按照你说的是成功了，然后我再次修改文件 然后git commit -m 'xxx' 然后再git push origin master显示everything up-to-date可是并没有上传上去 怎么回事？
