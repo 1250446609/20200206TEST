@@ -1,5 +1,6 @@
 测试本地项目上传到github gitlab
 
+参考博客  https://blog.csdn.net/shj_php/article/details/78109916
 
 hm@LAPTOP-JEUTT4L2 MINGW64 /d/work/jialong
 $ mkdir TEST
